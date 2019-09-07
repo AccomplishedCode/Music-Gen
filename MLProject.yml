@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+
+name:Music-ai
+
+conda_env:conda.yaml
+
+
+entry_points:
+    main:
+        command:"python training.py"
+        
+        
+        
+    predict:
+        
+        command:"python predict.py"
+||||||| merged common ancestors
+=======
+<<<<<<< HEAD
+
+name:Music-ai
+
+conda_env:conda.yaml
+
+
+entry_points:
+    main:
+        command:"python training.py"
+        
+        
+        
+    predict:
+        
+        command:"python predict.py"
+=======
+
+name:Music-ai
+
+conda_env:conda.yaml
+
+
+entry_points:
+    main:
+        command:"python training.py"
+        
+        
+        
+    predict:
+        
+        command:"python predict.py"
+>>>>>>> ed0ae7c7531d9d78a7d106f34397fab4d8771b88
+>>>>>>> 864e820412435d4c16fd7c4676cec4e8dcb61274
